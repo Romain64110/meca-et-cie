@@ -1,0 +1,4 @@
+:HL["/meca-et-cie/_next/static/chunks/0i-q_kq2j11u-.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"EuYJ85kW6t3UvqX54M5rp","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
