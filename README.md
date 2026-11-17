@@ -4,7 +4,7 @@
 
 ## [Lancer Méca & Cie dans le navigateur](https://romain64110.github.io/meca-et-cie/)
 
-Statique, résistance des matériaux, cinématique et dynamique, mécanique des fluides, analyse fonctionnelle et SysML, pneumatique et hydraulique, GRAFCET, cartes Arduino et ESP32, électricité des systèmes (en cours), courbes… Les calculs et les simulations tournent dans le navigateur. Ton travail est un fichier `.meca`, que tu enregistres sur ton ordinateur ou sur une clé USB : rien n'est envoyé sur internet.
+Statique, résistance des matériaux, cinématique et dynamique, mécanique des fluides, analyse fonctionnelle et SysML, pneumatique et hydraulique, GRAFCET, cartes Arduino et ESP32, électricité des systèmes, courbes… Les calculs et les simulations tournent dans le navigateur. Ton travail est un fichier `.meca`, que tu enregistres sur ton ordinateur ou sur une clé USB : rien n'est envoyé sur internet.
 
 **Version d'essai** : chaque calcul est vérifié par des tests sur des cas dont on connaît la solution ; leur validation en classe est en cours. Les résultats servent à apprendre, pas à dimensionner une vraie machine.
 
