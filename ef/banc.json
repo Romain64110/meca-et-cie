@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-23",
+  "poste": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, 32 Go",
+  "mesures": [
+    {
+      "piece": "arbre",
+      "finesse": "grossier",
+      "duree_ms": 1800,
+      "budget_ms": 2000,
+      "tetraedres": 10864,
+      "inconnues": 50016,
+      "iterations": 28,
+      "temps_ms": [
+        31,
+        280,
+        568,
+        871,
+        44
+      ],
+      "sigma_MPa": 80.9
+    },
+    {
+      "piece": "arbre",
+      "finesse": "moyen",
+      "duree_ms": 3299,
+      "budget_ms": 5000,
+      "tetraedres": 16848,
+      "inconnues": 76497,
+      "iterations": 44,
+      "temps_ms": [
+        21,
+        273,
+        614,
+        2336,
+        55
+      ],
+      "sigma_MPa": 81.2
+    },
+    {
+      "piece": "arbre",
+      "finesse": "fin",
+      "duree_ms": 5581,
+      "budget_ms": 20000,
+      "tetraedres": 24120,
+      "inconnues": 108402,
+      "iterations": 60,
+      "temps_ms": [
+        33,
+        371,
+        921,
+        4190,
+        64
+      ],
+      "sigma_MPa": 81.8
+    },
+    {
+      "piece": "tube",
+      "finesse": "grossier",
+      "duree_ms": 1401,
+      "budget_ms": 3000,
+      "tetraedres": 6468,
+      "inconnues": 39690,
+      "iterations": 34,
+      "temps_ms": [
+        8,
+        88,
+        605,
+        686,
+        13
+      ],
+      "sigma_MPa": 387.2
+    },
+    {
+      "piece": "tube",
+      "finesse": "moyen",
+      "duree_ms": 4267,
+      "budget_ms": 8000,
+      "tetraedres": 18480,
+      "inconnues": 112140,
+      "iterations": 40,
+      "temps_ms": [
+        15,
+        270,
+        1316,
+        2606,
+        57
+      ],
+      "sigma_MPa": 391.5
+    },
+    {
+      "piece": "ipe",
+      "finesse": "grossier",
+      "duree_ms": 804,
+      "budget_ms": 3000,
+      "tetraedres": 3240,
+      "inconnues": 19995,
+      "iterations": 44,
+      "temps_ms": [
+        4,
+        42,
+        258,
+        491,
+        9
+      ],
+      "sigma_MPa": 54.2
+    },
+    {
+      "piece": "ipe",
+      "finesse": "moyen",
+      "duree_ms": 3549,
+      "budget_ms": 8000,
+      "tetraedres": 11832,
+      "inconnues": 69561,
+      "iterations": 57,
+      "temps_ms": [
+        11,
+        191,
+        996,
+        2318,
+        31
+      ],
+      "sigma_MPa": 62.3
+    }
+  ]
+}
